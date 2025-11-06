@@ -1,0 +1,21 @@
+{
+    "experiment_name": "default",
+    "data_dir": "data",
+    "lang_pair": "en-zh",
+    "batch_size": 32,
+    "max_len": 128,
+    "max_samples": 1000,
+    "min_freq": 2,
+    "d_model": 512,
+    "num_heads": 8,
+    "num_encoder_layers": 6,
+    "num_decoder_layers": 6,
+    "d_ff": 2048,
+    "dropout": 0.1,
+    "learning_rate": 0.0001,
+    "lr_step": 10,
+    "lr_gamma": 0.5,
+    "num_epochs": 20,
+    "seed": 42
+}
+

@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+.installed.cfg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# PyTorch
+*.pth
+*.pt
+
+# Results and logs
+results/
+*.log
+tensorboard/
+
+# Data
+data/
+*.csv
+*.json
+!configs/*.json
+*.tsv
+
+# Temporary files
+*.tmp
+*.bak
