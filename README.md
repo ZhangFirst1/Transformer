@@ -1,6 +1,7 @@
 ## 快速开始
 
 **注意：**项目中的数据集压缩包`data.zip`只有原数据集的1/15，训练的话请到原链接下载完整数据集。
+消融实验结果在results下
 
 https://huggingface.co/datasets/neulab/ted_multi
 
